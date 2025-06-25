@@ -1,0 +1,2 @@
+deactiavte - for deacivating venv 
+source venv/bin/activate - for activating venv
