@@ -1,0 +1,24 @@
+#solutio using hash table 
+from collections import Counter
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+       count=Counter(nums)
+       for c in nums:
+        if count[c]>1:
+            return True
+       return False
+
+
+#using set
+
+from collections import Counter
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+       h=set()
+
+       for n in nums:
+        if n in h:
+            return True
+        else:
+            h.add(n)
+       return False

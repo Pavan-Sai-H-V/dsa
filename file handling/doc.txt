@@ -1,0 +1,25 @@
+"File Types. Extension
+1.txt.      .txt
+2.Json.     .Json
+3.Csv       .csv
+
+
+Text ---> texts,paragraphs,sentences etc.    "
+
+
+
+Modes;
+
+
+r -read
+w -write
+rd -read and write
+x -extend
+
+
+
+Parameters for .skeek()
+
+0-deafualt mentioning begenning of i
+1-current position
+2.end of file

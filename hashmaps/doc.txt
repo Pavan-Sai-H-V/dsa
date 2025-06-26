@@ -1,0 +1,16 @@
+from collections import defaultdict
+from collections import Counter
+
+has_map=defaultdict(int/list/...)
+count=Counter(input)
+
+
+to access the count of an element 
+count['key']
+
+to add and increment
+count[s] +=1
+
+to append
+
+count[key].append(i) ->>>i here is value 

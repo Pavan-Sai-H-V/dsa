@@ -1,2 +1,14 @@
 deactiavte - for deacivating venv 
 source venv/bin/activate - for activating venv
+
+
+
+
+shortcuts
+# use find() and rfind() to directly return the inex of the search element
+
+
+#to iterate through all aplhabets from lc [a-z]
+use:
+for i in range(26):
+   ch=ch(ord('a)+i)  ->

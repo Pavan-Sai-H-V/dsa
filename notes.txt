@@ -1,0 +1,15 @@
+range starts from 0 - n
+len starts from 1-n
+
+
+
+a[3:]=b will update remaining values of arr a to values of b
+
+
+
+####shortcuts
+to sort a list in your preferences
+use (key)
+.sort(key=lambda x:x==0)
+
+
