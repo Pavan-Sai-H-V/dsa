@@ -1,0 +1,34 @@
+OOPS
+
+.class - its a blureprint with its own functions
+.object - its a part in blueprint that inherits the props of class
+.Inheritance - passing props of one class to another
+.polymorphism - 
+.encapsulation
+.abstraction
+
+
+
+constructor
+__init__
+
+
+Inheritance
+
+it is a method to inherit prop and behaviours from a parent class(base_class)
+
+single
+multiple
+multilevel
+
+
+abstraction
+
+.allows us to hide implemenatation details
+.it can be achieved using using abstract classes and methods
+.abstraction
+.it is designed to be inherited by other classes
+.An abstarct method that is decalred but not implemented in the abstract class
+
+
+
