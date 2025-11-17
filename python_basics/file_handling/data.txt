@@ -1,0 +1,10 @@
+cat
+dog
+bird
+fish
+human
+lion
+monkey
+swan
+tetra
+goldfish

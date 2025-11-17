@@ -1,0 +1,3 @@
+welcome to py file handling
+This is a new file 
+We added a new line using append :)
